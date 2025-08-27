@@ -2,6 +2,7 @@ import numpy
 import os
 from my import GNN
 
+b = 1
 a = 1
 m = GNN()
 for i in range(10):
